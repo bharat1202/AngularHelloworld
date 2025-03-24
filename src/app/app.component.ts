@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Hello from BridgeLabz';
+  logoPath = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbqt1bChQ8i-BfxpDMol6aBwJkkJtdR4Vv1A&s';  // Property for image binding
 }
